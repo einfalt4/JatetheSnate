@@ -50,4 +50,4 @@ THEN I should have proper build scripts for a webpack application
 
 ## Screenshot
 
-Screenshot (22).png
+![Screenshot (22)](https://user-images.githubusercontent.com/107439535/205379500-f8eb136b-06fd-4cec-9983-0e9e85886346.png)
